@@ -1,5 +1,9 @@
 # Creating-Visualizations-with-Power-Bl
 
+![Waggle 1](Images/Waggle1.png)
+![Waggle 2](Images/Waggle2.png)
+![Waggle 3](Images/Waggle3.png)
+
 **Objective:** Develop a boardroom-ready Power BI dashboard to analyze and compare the performance, user satisfaction, and demographic insights of Waggle’s Lapdog and Lapcat smart fitness devices, enabling executives to evaluate the viability of launching the feline product.
 
 **What I did:**
